@@ -1,4 +1,4 @@
-%{
+%{//lex program to check if input is float or int.
 //macros
 %}
 int [0-9]*
