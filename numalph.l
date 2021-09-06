@@ -1,4 +1,4 @@
-%{
+%{//lex program to identify numbers or alphabets.
 //macros of c programs
 %}
 digit [0-9]
