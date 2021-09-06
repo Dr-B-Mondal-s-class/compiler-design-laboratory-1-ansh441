@@ -1,4 +1,4 @@
-%{
+%{//lex program to determine valid operators whether arithmetic or logical.
 //macros
 %}
 ari ("+"|"\-"|"/"|"%"|"\*"|">"|"<"|".")
