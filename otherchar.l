@@ -1,8 +1,7 @@
-%{
+%{//lex program to check if input has only alphabets and no other characters.
 //macros of c programs
 %}
 characters [A-Za-z]+
-others [0-9]
 
 %%
 {characters} {printf("This contains alphabets");};
