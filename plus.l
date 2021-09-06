@@ -1,4 +1,6 @@
-%{//macros of c
+%{
+//lex program to print names of basic operators.
+//macros of c
 %}
 
 PLUS [\+]
