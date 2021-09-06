@@ -1,4 +1,4 @@
-%{ //checking whether url is valid or not
+%{ //checking whether url is valid or not.
 %}
 
 protocol "http"|"https"|"ftp"
