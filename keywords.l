@@ -1,4 +1,4 @@
-%{
+%{//lex program to check keywords validity.
 //macros
 %}
 keywords (int|float|main|char|class|bool|true|false|return|for|if|while|do|struct|else|case|switch)* 
