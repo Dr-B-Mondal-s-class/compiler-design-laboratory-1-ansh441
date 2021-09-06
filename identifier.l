@@ -1,5 +1,5 @@
 
-%{
+%{//lex program to check if input is identifier or not.
 //macros
 %}
 keywords (int|float|main|char|class|bool|true|false|return|for|if|while|do|struct|else|case|switch)
