@@ -1,5 +1,6 @@
 %{
 //macros of c programs
+//lex program to check input is digit or not.
 %}
 digit [0-9]
 
