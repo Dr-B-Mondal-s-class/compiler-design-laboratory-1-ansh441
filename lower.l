@@ -1,4 +1,4 @@
-%{
+%{//lex program to check for lowercase or uppercase letters.
 //macros of c programs
 %}
 upper [A-Z]
