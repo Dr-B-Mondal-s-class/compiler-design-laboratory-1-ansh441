@@ -1,4 +1,4 @@
-%{
+%{//lex program to count number of lexemes and other components.
 //macros
 int c=0,kw=0,i=0,in=0,fl=0,op=0;
 %}
