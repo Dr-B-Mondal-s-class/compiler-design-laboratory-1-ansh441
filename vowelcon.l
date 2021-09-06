@@ -1,4 +1,4 @@
-%{
+%{//lex program to identify vowels and consonants.
 //macros of c programs
 %}
 vowels [AaEeIiOoUu]+
