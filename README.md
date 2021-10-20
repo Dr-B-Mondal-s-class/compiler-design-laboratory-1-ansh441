@@ -69,7 +69,177 @@ Program 5:
 ```
 *DAY 4:*
 
+Program 1: 
+
+**Lex program to verify valid keyword or not.**
+```
+        Sample Input: else
+        Sample Output : else is the keyword
+
+        Sample Input : him
+        Sample Output: him is not a keyword
+
+        Sample Input : not
+        Sample Output : not is not a keyword
+
+        Sample Input : while
+        Sample Output : while is the keyword
+        
+```
+Program 2:
+
+**Lex program to verify valid identifier.**
+```
+        Sample Input: sum
+        Sample Output: sum is a valid identifier 
+
+        Sample Input: 12
+        Sample Output: 12 is an invalid identifier
+       
+        Sample Input : float
+        Sample Output : float  is an invalid identifier
+        
+        Sample Input : FLOA
+        Sample Output : FLOAT is valid identifier
+    
+        Sample Input : a1_b
+        Sample Output : a1_b is an invalid identifier
+```
+
+Program 3:
+
+**Lex program to determine input operators whether arithmetic or logical.**
+```
+         Sample Input: +
+         Sample Output :+ is a valid arithmetic operator
+
+         Sample Input : ||
+         Sample Output: || is a valid logical operator
+
+         Sample Input : @
+         Sample Output: @ is not a valid operator
+```
+Program 4:
+**Lex program to recognize basic operators (PLUS(+), MINUS(-), GE(>=), LE(<=) ).**
+```
+        Sample Input: >=
+        Sample Output: Greater or equal to operator
+
+        Sample Input: <=
+        Sample Output: Lesser or equal to operator
+
+        Sample Input: +
+        Sample Output: PLUS operator.
+
+        Sample Input: -
+        Sample Output: MINUS operator
+
+        Sample Input: &
+        Sample Output: invalid operator!
+```
+Program 5:
+
+**Lex program to recognize float and int data types.**
+```
+        Sample Input: 58
+        Sample Output: 58 is an int value
+
+        Sample Input: 6.63
+        Sample Output: 6.63 is a float value
+
+        Sample Input: a
+        Sample Output: a is Invalid 
+```
+*DAY 5*
+
 Program 1:
+**Lex program to count the number of lexemes.**
+```
+        Sample Input: int a=5
+        Sample Output: count=4
+
+        Sample Input: float d=3.15
+        Sample Output: count=4
+
+        Sample Input: int sum=a+b;
+        Sample Output: count=7
+```
+
+Program 2:
+**Lex Program to count the number of identifier,lexemes,keywords,integers,fractions,and operators in the input.**
+```
+        Sample Input: float sum =5.3+4;
+        Sample Output:  count of lexemes=7
+                        count of keywords=1
+                        count of identifiers=1
+                        count of integers=1
+                        count of fractions=1
+                        count of operators=3
+  ```
+  
+  Program 3:
+  **Lex program to check for valid url.**
+  ```
+        Sample Input: https://www.google.com
+        Sample Output: Valid URL
+
+        Sample Input: http://www/giraffe.co.in
+        Sample Output:Invalid URL
+
+        Sample Input: http://www.happy.net
+        Sample Output:Valid URL
+```
+
+*DAY 6*
+
+Program 1:
+**Lex program to check for valid mobile number (India).**
+
+```
+        Sample Input: +918234556767
+        Sample Output: Valid Number
+
+        Sample Input: +918654345545
+        Sample Output: Valid Number
+
+        Sample Input: +9122222222222
+        Sample Output: Invalid Number
+```
+
+Program 2:
+**Lex program to check for valid email.**
+```
+        Sample Input: giraffe@gmail.com
+        Sample Output: Invalid email
+
+        Sample Input: happy3@gmail.com
+        Sample Output: Valid email
+
+        Sample Input:wellwisher44_4@gmail.com
+        Sample Output:Invalid email
+```
+Program 3:
+**Lex program to count the number of characters in an input file.**
+```
+       Sample file:inpfile.txt
+       Sample Input:hello World
+                    hello world;
+                    hola world! 
+       Sample Output:35
+```
+
+*DAY 7*
+
+
+
+
+
+
+
+  
+
+
+
 
 
 
