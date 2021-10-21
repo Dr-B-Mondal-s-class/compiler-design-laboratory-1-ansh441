@@ -3,7 +3,21 @@
 ### (Reg. No. 2019UGCS052R)
 ## Compiler Design Lab Work :-
 
-*DAY 1,2&3:*
+
+*DAY 1*
+
+Program 1:
+
+**Lex program to recognize if digit or letter.**
+
+```
+        Sample Input : abc      
+        Sample Output : letters
+                        
+        Sample Input : 123
+        Sample Output : digit(s)
+```
+*DAY 2*
 
 Program 1:
 
@@ -16,18 +30,8 @@ Program 1:
         Sample Input : ab
         Sample Output :This is not a digit
 ```    
+
 Program 2:
-
-**Lex program to recognize if digit or letter.**
-
-```
-        Sample Input : abc      
-        Sample Output : letters
-                        
-        Sample Input : 123
-        Sample Output : digit(s)
-```
-Program 3:
 
 **Lex program to recognize whether string contains only letters or not.**
 
@@ -41,7 +45,7 @@ Program 3:
         Sample Output : this has other characters
 
 ```
-Program 4:
+Program 3:
 
 **Lex program to recognize whether string contains uppercase, lowercase or both.**
 ```
@@ -54,7 +58,9 @@ Program 4:
         Sample Input : aBcD
         Sample Output : It has both cases
 ```
-Program 5:
+*DAY 3*
+
+Program 1:
 
 **Lex program to recognize vowels or consonants.**
 ```
@@ -67,7 +73,27 @@ Program 5:
         Sample Input : bfg
         Sample Output : Contains only consonants
 ```
-*DAY 4:*
+Program 2:
+
+**Lex program to count number of characters in a string.**
+```
+        Sample Input : hello 52
+        Sample Output : 8 
+```
+
+Program 3:
+
+**Lex program to count the composition of the string (vowels, consonants, digits & spaces)**
+```
+        Sample Input : $hAppy bIrthday $ 50@
+        Sample Output : Number of Vowels: 3
+                        Number of Consonants: 10
+                        Number of digits: 2
+                        Number of space: 3
+                        Number of other characters: 3
+```
+
+*DAY 4*
 
 Program 1: 
 
