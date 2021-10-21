@@ -120,6 +120,7 @@ Program 3:
          Sample Output: @ is not a valid operator
 ```
 Program 4:
+
 **Lex program to recognize basic operators (PLUS(+), MINUS(-), GE(>=), LE(<=) ).**
 ```
         Sample Input: >=
@@ -153,6 +154,7 @@ Program 5:
 *DAY 5*
 
 Program 1:
+
 **Lex program to count the number of lexemes.**
 ```
         Sample Input: int a=5
@@ -166,6 +168,7 @@ Program 1:
 ```
 
 Program 2:
+
 **Lex Program to count the number of identifier,lexemes,keywords,integers,fractions,and operators in the input.**
 ```
         Sample Input: float sum =5.3+4;
@@ -178,6 +181,7 @@ Program 2:
   ```
   
   Program 3:
+  
   **Lex program to check for valid url.**
   ```
         Sample Input: https://www.google.com
@@ -193,6 +197,7 @@ Program 2:
 *DAY 6*
 
 Program 1:
+
 **Lex program to check for valid mobile number (India).**
 
 ```
@@ -207,6 +212,7 @@ Program 1:
 ```
 
 Program 2:
+
 **Lex program to check for valid email.**
 ```
         Sample Input: giraffe@gmail.com
@@ -219,6 +225,7 @@ Program 2:
         Sample Output:Invalid email
 ```
 Program 3:
+
 **Lex program to count the number of characters in an input file.**
 ```
        Sample file:inpfile.txt
@@ -230,6 +237,59 @@ Program 3:
 
 *DAY 7*
 
+Program 1:
+
+**Lex program to count the total number of characters, white spaces, tabs and new lines in the given input file.**
+
+```
+        Sample File:input.txt
+        Sample Input:hello world
+                     @.....  @.....
+                     q    q
+
+
+        Sample Output:
+                        
+                        Line count: 4
+                        Whitespaces count: 3
+                        Tabs count: 1
+                        Characters count: 24
+
+```
+
+
+Program 2:
+
+**Lex program to count the number of lexems in the given input file.**
+
+```
+        Sample File:-input.txt
+        Sample Input:int i=0;
+                     for(i=3;i<n;i++)
+                     {
+                        a++;
+                     }
+
+        Sample output:- Total no. of lexemes = 24
+```
+
+
+Program 3:
+
+**Lex program to read from an input file, remove multiple spaces, newline and tabs and write the result in an output file.**
+
+```
+        Sample Input File:-input.txt
+        Sample Input:hello world
+                     @.....  @.....
+                     q    q
+
+
+         Sample Output File:-output.txt
+         Sample Output:
+
+```
+*DAY 8*
 
 
 
