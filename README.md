@@ -317,7 +317,17 @@ Program 3:
 ```
 *DAY 8*
 
+Program 1:
 
+**Sample YACC Program**
+
+``` 
+        Sample Input:hi
+        Sample Output:Hello World
+        
+        Sample Input:bye
+        Sample Output:Bye World
+```
 
 
 
