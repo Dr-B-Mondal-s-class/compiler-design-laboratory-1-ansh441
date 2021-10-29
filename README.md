@@ -330,7 +330,7 @@ Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-la
 ```
 *DAY 9*
 
-Program 2:      [Link]
+Program 1:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_9/1)
 
 **Lex and YACC programs to check whether a given string is Palindrome or Not.**
 
@@ -343,13 +343,16 @@ Program 2:      [Link]
         Sample Output: not pallindrome: anshika
 ```
 
-Program 2:      [Link]
+Program 2:      [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-ansh441/tree/main/2019UGCS052R_DAY_9/2)
 
 **Write a program using Lex and YACC which accept strings that starts and ends with 0 or 1**
 
 ```
-        Sample Input: 
-        Sample Output:
+        Sample Input: 541
+        Sample Output: accepted.
+        
+        Sample Input: 768
+        Sample Output: not accepted.
         
 ```
 
